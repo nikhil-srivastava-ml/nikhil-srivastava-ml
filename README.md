@@ -1,61 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nikhil Srivastava</h1>
-<h3 align="center">B.Tech ECE | ML & Data Science | C++ & DSA | Hackathon Winner</h3>
+<img src="https://raw.githubusercontent.com/nikhil-srivastava-ml/nikhil-srivastava-ml/main/banner.png" />
+
+<h1>Hi there, I'm Nikhil Srivastava 👋</h1>
+<p><b>B.Tech ECE | ML & Data Science | C++ & DSA | Hackathon Winner</b></p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in **Electronics & Communication Engineering** (JSS Noida, 2026)
-- 💻 Strong in **C++, DSA, Machine Learning, System Design**
-- 🧠 Completed **McKinsey Forward Program**
-- 🏆 Winner in multiple **college-level hackathons**
-- 🗣️ State-level participant in **Speak India** debates
-- 🔭 Building **AI-powered apps** like *Vaani* (speech therapy platform)
+### 👨‍💻 About Me
+I’m a final-year Electronics & Communication Engineering student at **JSS Academy of Technical Education, Noida (2026)**.  
+I enjoy building scalable software systems, machine learning applications, and solving algorithmic problems.
+
+- 🎯 Strong in **C++, DSA, System Design**
+- 🤖 Passionate about **Machine Learning & AI**
+- 🏆 Winner of multiple **hackathons**
+- 📚 Completed **McKinsey Forward Program**
+- 🗣️ State-level participant in **Speak India**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 💻 Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data Science / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🌐 Web / App
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Languages:** C++, Python  
+**ML / Data:** NumPy, Pandas, Scikit-learn  
+**App / Web:** Flutter, GitHub  
+**Tools:** Git, VS Code, Linux  
 
 ---
 
-## 📈 GitHub Stats
+### 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-srivastava-ml&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-srivastava-ml&theme=radical" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhil-srivastava-ml&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+#### 🔊 Swaran (Vaani) – AI Speech Therapy App
+An AI-powered speech therapy and confidence-building platform for children with speech disorders.  
+🔗 **Repo:** https://github.com/nikhil-srivastava-ml/vaani  
+🛠️ Flutter, ASR, ML, Image Analysis
 
 ---
 
-## 🔗 Featured Projects
-- 🔊 **Vaani** – AI-powered speech therapy app  
-- 📈 **Stock Price Prediction (ML + LSTM)**  
-- 💓 **Smart ECG Analysis System**  
-- ⚙️ **Custom Memory Allocator in C++**
+#### 📈 Stock Price Prediction using LSTM
+Machine learning model for time-series forecasting of stock prices.  
+🔗 **Repo:** https://github.com/nikhil-srivastava-ml/stock-price-prediction  
+🛠️ Python, LSTM, Pandas, NumPy
 
 ---
 
-## 🤝 Connect With Me
+#### 💓 Smart ECG Analysis System
+AI-based ECG classification system integrating ML with hardware signals.  
+🔗 **Repo:** https://github.com/nikhil-srivastava-ml/smart-ecg  
+🛠️ Signal Processing, CNN, Embedded Systems
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/nikhil-srivastava-ml)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+---
+
+#### ⚙️ Custom Memory Allocator in C++
+Low-level memory management system with free lists, size classes, and thread safety.  
+🔗 **Repo:** https://github.com/nikhil-srivastava-ml/custom-allocator  
+🛠️ C++, Systems Programming
+
+---
+
+### 🔗 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/nikhil-srivastava-swe  
+- 📧 Email: nikhillsrivastava12@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/nikhil-srivastava-ml
+
